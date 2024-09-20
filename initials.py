@@ -1,0 +1,7 @@
+print('EEEEE JJJJJ')
+print('E       J  ')
+print('E       J  ')
+print('EEEEE   J  ')
+print('E     J J  ')
+print('E     J J  ')
+print('EEEEE  JJ  ')
